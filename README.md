@@ -1,7 +1,5 @@
 ## Hi everyone my name is Muhammad Ramadhan Prinada 👋
 
-![rumahku](/img/illustration-anime-city.jpg)
-
 <!--
 **ramadhanprinadaa/ramadhanprinadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
