@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [ReactJS](https://react.dev/) Framework
 - 👯 I’m looking for internship program
 - ![freya](/gif/tenor.gif)
+- - 💬 Ask me about everything
 
