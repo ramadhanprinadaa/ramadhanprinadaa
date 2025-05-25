@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone my name is Muhammad Ramadhan Prinada 👋
+
+![rumahku](/img/illustration-anime-city.jpg)
 
 <!--
 **ramadhanprinadaa/ramadhanprinadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on Yarsi University Jakarta
+- 🌱 I’m currently learning [ReactJS](https://react.dev/) Framework
+- 👯 I’m looking for internship program
+- ![freya](/gif/tenor.gif)
+
