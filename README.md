@@ -44,7 +44,7 @@
 ---
 
 ### 📫 Connect With Me 
-[![My Social Media](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramadhhnnp)  [![My Social Media](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:muhr69271@gmail.com)  [![My Social Media](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/ramadhan-prinada)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramadhhnnp)  [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:muhr69271@gmail.com)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ramadhan-prinada)
 
 
 ---
