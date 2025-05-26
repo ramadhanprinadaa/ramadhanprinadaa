@@ -1,41 +1,54 @@
-## Hi Guys! 👋
+### Hi Guys! I'm 👋
 
 <!-- Banner -->
 ![header](./img/banner%20linkedin%20(1).png)
 
-<!--
-**ramadhanprinadaa/ramadhanprinadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 👨‍💻 About Me
+- 🎓 I'm currently studying Informatics Engineering (IT) at YARSI University, Jakarta
+- 🌱 I’m currently learning and building projects with **[ReactJS]()** to strengthen my frontend development skills
+- 👀 I’m actively seeking an internship opportunity, especially in the fields of **Frontend Web Development** or **Android Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🔭 I’m currently studying on Yarsi University Jakarta
-- 🌱 I’m currently learning [ReactJS](https://react.dev/) Framework
-- 👯 I’m looking for internship program
-- ![freya](/gif/tenor.gif)
-- - 💬 Ask me about everything
-
-##### Skills
+### 🛠️ Tech Stack & Tools
+#### 👨‍💻 Programming Languages
 <!-- Icon -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,kotlin,py,js&theme=dark)](https://skillicons.dev)
+---
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+#### 🌐 Frontend Web Dev
+[![My Frameworks](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
-##### Connect
-![https://www.instagram.com/ramadhhnnp/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+#### 📱 Mobile Dev
+[![My Frameworks](https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase&perline=5)](https://skillicons.dev)
 
+#### 🤖 AI & Machine Learning
+[![My Frameworks](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev)
+
+---
+
+### 🚀 Featured Projects
+ 
+- 📱 [Kobaa App](https://github.com/yourusername/kobaa) – An Android application that allows users to upload photos similar to Instagram, with Firebase Authentication and Firestore integration for user-generated content
+- 🤖 [AnemiCare AI Model]() - An AI model developed for the Bangkit Academy Capstone Project, designed to analyze health-related datasets and predict types of anemia using machine learning algorithms
+
+---
 
 <!-- Stats -->
-##### My Github Stats
+### 📊 GitHub Stats
 ![Ramadhan Prinada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadhanprinadaa&show_icons=true&theme=tokyonight)
+
+
+---
+
+### 📫 Connect With Me 
+[![My Social Media](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramadhhnnp)  [![My Social Media](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:muhr69271@gmail.com)  [![My Social Media](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/ramadhan-prinada)
+
+
+---
+
+### 🪐 My Oshi
+![freya](/gif/tenor.gif)
 
