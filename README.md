@@ -1,11 +1,11 @@
-### Hi Guys! I'm 👋
+### Hi Guys! 👋 I'm
 
 <!-- Banner -->
 ![header](./img/banner%20linkedin%20(1).png)
 
 ---
 
-#### 👨‍💻 About Me
+### 👨‍💻 About Me
 - 🎓 I'm currently studying Informatics Engineering (IT) at YARSI University, Jakarta
 - 🌱 I’m currently learning and building projects with **[ReactJS]()** to strengthen my frontend development skills
 - 👀 I’m actively seeking an internship opportunity, especially in the fields of **Frontend Web Development** or **Android Development**
@@ -20,9 +20,11 @@
 
 #### 🌐 Frontend Web Dev
 [![My Frameworks](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+---
 
 #### 📱 Mobile Dev
 [![My Frameworks](https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase&perline=5)](https://skillicons.dev)
+---
 
 #### 🤖 AI & Machine Learning
 [![My Frameworks](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev)
