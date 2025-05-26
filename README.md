@@ -1,7 +1,7 @@
-## Hi everyone my name is Muhammad Ramadhan Prinada 👋
+## Hi Guys! 👋
 
 <!-- Banner -->
-![header](./img/github-header-image.png)
+![header](./img/banner%20linkedin%20(1).png)
 
 <!--
 **ramadhanprinadaa/ramadhanprinadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
