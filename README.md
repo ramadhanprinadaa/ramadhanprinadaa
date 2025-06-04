@@ -33,6 +33,8 @@
 
 ### 🚀 Featured Projects
  
+- 💻 [Portfolio Website](https://ramadhanprinada.netlify.app) – A personal portfolio website built with React.js
+- 
 - 📱 [Kobaa App](https://github.com/yourusername/kobaa) – An Android application that allows users to upload photos similar to Instagram, with Firebase Authentication and Firestore integration for user-generated content
 - 🤖 [AnemiCare AI Model]() - An AI model developed for the Bangkit Academy Capstone Project, designed to analyze health-related datasets and predict types of anemia using machine learning algorithms
 
@@ -40,6 +42,8 @@
 
 <!-- Stats -->
 ### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+
 ![Ramadhan Prinada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadhanprinadaa&show_icons=true&theme=tokyonight)
 
 
