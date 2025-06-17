@@ -58,4 +58,5 @@
 
 ### 🪐 My Oshi
 ![freya](/gif/tenor.gif)
+![freya2](https://tenor.com/blHl6.gif)
 
