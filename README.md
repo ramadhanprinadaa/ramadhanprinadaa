@@ -58,5 +58,5 @@
 
 ### 🪐 My Oshi
 ![freya](/gif/tenor.gif) 
-![freya2](/gif/tenor3.gif)
+<!-- ![freya2](/gif/tenor3.gif) -->
 
