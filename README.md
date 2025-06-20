@@ -37,7 +37,7 @@
 - 💻 [AkreDoc Homepage](https://akredoc.netlify.app/) – A homepage website for AkreDoc built using ReactJS, TailwindCSS, and Flowbite.
 - 💻 [Skeleton Portfolio Website](https://ramadhanprinada.netlify.app) – A personal portfolio website built with HTML
 - ✈️ [Web Travel Bootstrap](https://github.com/ramadhanprinadaa/web-travel-bootstrap.git) – A travel website template built with Bootstrap.
-- 📱 [Kobaa App](https://github.com/yourusername/kobaa) – An Android application that allows users to upload photos similar to Instagram, with Firebase Authentication and Firestore integration for user-generated content
+- 📱 [Kobaa App](https://github.com/ramadhanprinadaa/kobaa) – An Android application that allows users to upload photos similar to Instagram, with Firebase Authentication and Firestore integration for user-generated content
 - 🤖 [AnemiCare AI Model]() - An AI model developed for the Bangkit Academy Capstone Project, designed to analyze health-related datasets and predict types of anemia using machine learning algorithms
 
 ---
