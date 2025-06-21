@@ -59,7 +59,7 @@
 
 ### 🪐 My Oshi
 <div style="display: flex; gap: 10px;">
-  <img src="/gif/tenor.gif" alt="freya" width="200" height="200" style="object-fit: cover;">
-  <img src="/gif/tenor4.gif" alt="freya2" width="200" height="200" style="object-fit: cover;">
+  <img src="/gif/tenor.gif" alt="freya" width="200" height="250" style="object-fit: cover;">
+  <img src="/gif/tenor4.gif" alt="freya2" width="200" height="250" style="object-fit: cover;">
 </div>
 
