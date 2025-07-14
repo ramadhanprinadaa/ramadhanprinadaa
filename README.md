@@ -59,5 +59,5 @@
 ---
 
 ### 🪐 My Oshi
-![MyOshi](/gif/tenor.gif)
+![MyOshi](/gif/tenor5.gif)
 
